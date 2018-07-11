@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-image: url("https://cdn.dribbble.com/users/749365/screenshots/4459885/raven-best-mates.gif");
+  background-repeat: repeat-y;
+  background-size: cover;
+}
+
